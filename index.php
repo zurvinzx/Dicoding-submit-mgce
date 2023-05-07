@@ -45,7 +45,7 @@
 <body>
     <div class="container">
         <h1>Biodata</h1>
-        <img src="https://storage.googleapis.com/<bucket_name>/profile.jpg" alt="Profile Picture">
+        <img src="https://storage.googleapis.com/zurvin-bucket/profileme.jpeg" alt="Profile Picture">
             
         <table>
             <tr>
